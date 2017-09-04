@@ -1,6 +1,0 @@
-[submodule "FrontEnd/InModel.FE"]
-	path = FrontEnd/InModel.FE
-	url = ../InModel.FE.git
-[submodule "BackEnd/InModel.BE"]
-	path = BackEnd/InModel.BE
-	url = ../InModel.BE.git
