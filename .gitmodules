@@ -1,6 +1,0 @@
-[submodule "InModel.BE"]
-	path = InModel.BE
-	url = ../InModel.BE.git
-[submodule "InModel.FE"]
-	path = InModel.FE
-	url = ../InModel.FE.git
